@@ -45,7 +45,7 @@ def blend(size, base, fruit, scoops):
 
 def main():
     """Main function to run the smoothie bar system."""
-    
+    # Humza Bangash smoothie_bar.py project
     print("🍓 Welcome to the Smoothie Bar! 🍌")
     
     # Size input
